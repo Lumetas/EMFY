@@ -1,0 +1,2 @@
+Ошибка: Bad request
+Код ошибки: 400https://9307representative.amocrm.ru/api/v4/leads/notes
